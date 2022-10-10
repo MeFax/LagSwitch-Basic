@@ -1,7 +1,4 @@
 # LagSwitch Basic With C++
-
-# How Use ?
-
 > Press `Right ALT`
 > `Application` Adding basic `Firewall rules` 
 ```
